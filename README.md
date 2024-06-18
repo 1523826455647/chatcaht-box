@@ -1,5 +1,5 @@
-使用教程：
-首先在llm_list.py中填入你们的api，建议都填入。
+# 使用教程：
+<br>首先在llm_list.py中填入你们的api，建议都填入。<br>
 接着pip install -r requirements.txt安装依赖。
 最后点击run.py即可运行。
 
