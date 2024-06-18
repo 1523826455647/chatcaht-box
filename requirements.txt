@@ -1,0 +1,6 @@
+dashscope==1.19.2
+gradio==4.33.0
+openai==1.31.1
+Requests==2.32.3
+sparkai==0.3.0
+zhipuai==2.1.0.20240521
